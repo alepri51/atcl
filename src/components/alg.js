@@ -145,7 +145,24 @@ let deals = [
 let lists = [
     {
         id: 1,
-        members: [1, 2, 3, 4],
+        members: [
+            {
+                member_id: 1,
+                position: 7
+            },
+            {
+                member_id: 2,
+                position: 6
+            },
+            {
+                member_id: 3,
+                position: 5
+            },
+            {
+                member_id: 4,
+                position: 4
+            },
+        ],
         default: true
     },
     {
