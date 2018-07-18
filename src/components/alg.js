@@ -1,3 +1,9 @@
+//API
+//signup/signin/signout/password recovery/delete
+//transactions: send
+//deals: confirm
+//
+
 let members = [
     {
         id: 0,
